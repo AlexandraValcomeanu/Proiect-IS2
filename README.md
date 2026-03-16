@@ -1,6 +1,6 @@
 **MedBook – Sistem de programări la medici**
 
-MedBook este o aplicație dezvoltată în **C# , concepută pentru gestionarea programărilor la medici. Proiectul implementează un **REST API** care permite administrarea utilizatorilor (pacienți, medici), gestionarea specialităților medicale și crearea, modificarea sau anularea programărilor. Persistența datelor este realizată printr-o bază de date SQL, iar întregul sistem este configurat să ruleze în containere Docker folosind **docker-compose** (serviciu API + serviciu DB).
+MedBook este o aplicație dezvoltată în C# , concepută pentru gestionarea programărilor la medici. Proiectul implementează un **REST API** care permite administrarea utilizatorilor (pacienți, medici), gestionarea specialităților medicale și crearea, modificarea sau anularea programărilor. Persistența datelor este realizată printr-o bază de date SQL, iar întregul sistem este configurat să ruleze în containere Docker folosind **docker-compose** (serviciu API + serviciu DB).
 
 Funcționalitățile principale includ:
 
